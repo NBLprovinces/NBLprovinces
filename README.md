@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NBLprovinces
-- 👀 I’m interested in troubleshooting and fixing , just started github out of curiosity 
+- 👀 I’m interested in troubleshooting and fixing computer related problems ( well thats my job ), just started github out of curiosity 
 - 🌱 I’m currently learning networking and cloud
 - 💞️ I’m looking to collaborate on i dont know
 - 📫 How to reach me ... mail:nblnou084@gmail.com
